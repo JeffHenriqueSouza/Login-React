@@ -1,31 +1,7 @@
 Tela de Login React
+
 Este projeto é uma aplicação React para uma tela de login. Ele utiliza Vite como bundler e está configurado com ESLint para garantir a qualidade do código. As principais dependências incluem React, React-DOM e React-Icons.
 
-Estrutura do Projeto
-A estrutura de diretórios do projeto é a seguinte:
-
-css
-Copiar código
-tela_login_react-main/
-├── .eslintrc.cjs
-├── .gitignore
-├── README.md
-├── index.html
-├── package-lock.json
-├── package.json
-├── vite.config.js
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── App.css
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── Components/
-│   │   └── Login/
-│   │       ├── Login.css
-│   │       └── Login.jsx
-│   └── assets/
-│       └── bg.webp
 Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
